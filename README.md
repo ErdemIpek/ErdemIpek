@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:1a5276&height=140&section=header&fontColor=ffffff&fontSize=30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0a3d62&height=130&section=header"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Erdem+%C4%B0pek;Robotics+%26+Industrial+Software+Engineer;ROS2+%7C+Python+%7C+Flutter;Modbus+%E2%80%A2+EtherNet%2FIP+%E2%80%A2+Welder+Integration" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=680&lines=Erdem+%C4%B0pek;Robotics+%26+Industrial+Software+Engineer;ROS2+%C2%B7+Python+%C2%B7+Flutter;Industrial+Automation+%26+Edge+Connectivity" alt="Typing SVG" />
 
 <br/>
 
@@ -14,9 +14,9 @@
 
 ---
 
-I build backend systems that control industrial robots — real-time protocol integration across welding and grinding cells, cloud data pipelines, and full-stack tooling from the robot controller to the UI.
+I design and build the software layer between industrial robots and the real world — from low-level machine communication to cloud-connected data systems.
 
-Currently at **[RBW](https://rb-ware.com)**, developing robotic software solutions for industrial welding and grinding automation.
+Currently at **[RBW](https://rb-ware.com)**, working on robotic automation software for industrial welding and grinding environments.
 
 ---
 
@@ -26,41 +26,39 @@ Currently at **[RBW](https://rb-ware.com)**, developing robotic software solutio
 ![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=02569B)
 ![ROS2](https://img.shields.io/badge/ROS2-0d1117?style=flat-square&logo=ros&logoColor=22314E)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
-![C#](https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=csharp&logoColor=239120)
 ![Modbus](https://img.shields.io/badge/Modbus-0d1117?style=flat-square&logo=databricks&logoColor=white)
 ![EtherNet/IP](https://img.shields.io/badge/EtherNet%2FIP-0d1117?style=flat-square&logo=cisco&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-0d1117?style=flat-square&logo=eclipsemosquitto&logoColor=white)
 
 ---
 
 ### Domain
 
 ```
-Robotic Backends     ROS2-based control systems for welding & grinding cells
-Industrial Comms     Modbus, EtherNet/IP
-Welder Integration   Kemppi · Fronius · ESAB · EWM · Kolarc
-Cloud & Data         Kemppi WeldEye, cloud data pipelines
+Robotic Backends      ROS2-based control systems for welding & grinding automation
+
+Industrial Comms      Modbus, EtherNet/IP
+
+Welding Systems       Deep hands-on knowledge of premium industrial welding
+                      platforms — architecture, communication interfaces, data
+                      models, and operational characteristics of Kemppi, Fronius,
+                      ESAB, EWM, and Kolarc systems
+
+Edge Connectivity     End-to-end weld data pipelines bridging machine controllers
+                      to cloud platforms — real-time parameter capture, data
+                      normalisation, and delivery for monitoring and traceability
 ```
 
 ---
 
-### Stats
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ErdemIpek&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ErdemIpek&theme=github-dark-blue&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ErdemIpek&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ErdemIpek&theme=github-dark-blue&hide_border=true" />
 
 <br/>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ErdemIpek&theme=github-compact&hide_border=true&area=true&color=1a5276&line=2e86c1&point=85c1e9" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ErdemIpek&theme=darkhub&no-frame=true&row=1&column=6&no-bg=true" />
-
 </div>
 
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a5276,50:0a3d62,100:0d1117&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d62,100:0d1117&height=100&section=footer"/>
