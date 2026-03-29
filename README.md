@@ -14,7 +14,7 @@
 
 ---
 
-I design and build the software layer between industrial robots and the real world — from low-level machine communication to cloud-connected data systems.
+I design and build the software layer between industrial robots and the real world, from low-level machine communication to cloud-connected data systems.
 
 Currently at **[RBW](https://rb-ware.com)**, working on robotic automation software for industrial welding and grinding environments.
 
@@ -24,28 +24,31 @@ Currently at **[RBW](https://rb-ware.com)**, working on robotic automation softw
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
 ![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=02569B)
-![ROS2](https://img.shields.io/badge/ROS2-0d1117?style=flat-square&logo=ros&logoColor=22314E)
+![ROS2](https://img.shields.io/badge/ROS2-0d1117?style=flat-square&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
-![Modbus](https://img.shields.io/badge/Modbus-0d1117?style=flat-square&logo=databricks&logoColor=white)
-![EtherNet/IP](https://img.shields.io/badge/EtherNet%2FIP-0d1117?style=flat-square&logo=cisco&logoColor=white)
+![Modbus](https://img.shields.io/badge/Modbus-0d1117?style=flat-square&logoColor=white)
+![EtherNet/IP](https://img.shields.io/badge/EtherNet%2FIP-0d1117?style=flat-square&logoColor=white)
 
 ---
 
 ### Domain
 
 ```
-Robotic Backends      ROS2-based control systems for welding & grinding automation
+Robotics             ROS2-based control systems for welding and grinding automation
 
-Industrial Comms      Modbus, EtherNet/IP
+AI and Robotics      AI-driven perception, decision-making, and process optimisation
+                     integrated into industrial robotic cells
 
-Welding Systems       Deep hands-on knowledge of premium industrial welding
-                      platforms — architecture, communication interfaces, data
-                      models, and operational characteristics of Kemppi, Fronius,
-                      ESAB, EWM, and Kolarc systems
+Industrial Comms     Modbus, EtherNet/IP
 
-Edge Connectivity     End-to-end weld data pipelines bridging machine controllers
-                      to cloud platforms — real-time parameter capture, data
-                      normalisation, and delivery for monitoring and traceability
+Welding Systems      Deep hands-on knowledge of premium industrial welding platforms:
+                     architecture, communication interfaces, data models, and
+                     operational characteristics of Kemppi, Fronius, ESAB, EWM,
+                     and Kolarc systems
+
+Edge Connectivity    End-to-end weld data pipelines bridging machine controllers
+                     to cloud platforms: real-time parameter capture, data
+                     normalisation, and delivery for monitoring and traceability
 ```
 
 ---
